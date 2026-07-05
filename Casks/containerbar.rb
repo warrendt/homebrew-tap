@@ -1,6 +1,6 @@
 cask "containerbar" do
   version "0.1.0"
-  sha256 "30bc12f2f72cd05542770b0f4aa7c44190686d0f2f076ba0699bee18ad971d35"
+  sha256 "bbbda6ba6113b304bc9f50306b195ecbc3d67c32064de4b831662794512e0898"
 
   url "https://github.com/warrendt/containerbar/releases/download/v#{version}/ContainerBar-#{version}-macos-arm64.zip"
   name "ContainerBar"
