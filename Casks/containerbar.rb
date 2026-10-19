@@ -8,7 +8,7 @@ cask "containerbar" do
   homepage "https://github.com/warrendt/containerbar"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "ContainerBar.app"
 end

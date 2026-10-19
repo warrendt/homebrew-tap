@@ -7,7 +7,7 @@ cask "duobar" do
   desc "Menu bar indicator for battery, network, and volume"
   homepage "https://github.com/Mikeli7666/DuoBar"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "DuoBar.app"
 end
